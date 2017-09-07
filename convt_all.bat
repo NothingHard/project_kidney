@@ -1,0 +1,1 @@
+for /R %%f in (.\*.dcm) do dcm2jpg -f p %%f
